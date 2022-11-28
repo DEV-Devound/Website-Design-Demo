@@ -1,5 +1,5 @@
 # Website-Design-Demo
 A website for exercise
 
-## [PREVFIEW]
+## [PREVIEW]
 [![https://imgur.com/RUtNHC4.png](https://imgur.com/RUtNHC4.png)](https://imgur.com/RUtNHC4.png)
